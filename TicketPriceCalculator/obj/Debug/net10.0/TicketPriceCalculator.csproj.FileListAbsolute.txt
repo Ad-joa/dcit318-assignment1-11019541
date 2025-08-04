@@ -1,0 +1,15 @@
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.exe
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.deps.json
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.dll
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.pdb
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.sourcelink.json
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.dll
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\obj\Debug\net10.0\refint\TicketPriceCalculator.dll
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.pdb
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\fortu\.vscode\dcit318-assignment1-11019541\TicketPriceCalculator\obj\Debug\net10.0\ref\TicketPriceCalculator.dll
